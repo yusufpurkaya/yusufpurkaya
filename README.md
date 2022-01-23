@@ -1,6 +1,6 @@
 <img src="https://github.com/yusufpurkaya/yusufpurkaya/blob/main/pexels-craig-adderley-1563356.jpg?raw=true">
 
-<h1 align="center">Hi,🖐️ I'm Yusuf Emre Purkaya</h1>
+<h1 align="center">Hi,🖐️ I'm  <a href="https://www.linkedin.com/in/yusuf-emre-purkaya/">Yusuf Emre Purkaya</a></h1>
 
 <h3 align="center"> Automation Tester</h3>
 
@@ -10,4 +10,4 @@
     <li> 📝 Ask me about JAVA,SELENIUM,JDBC,HTML,SQL
     <li> 📝 SDLC,STLC,AGİLE METHODOLGY
  </ul>
-  <a href="https://www.linkedin.com/in/yusuf-emre-purkaya/">LinkedIn</a>
+ 
