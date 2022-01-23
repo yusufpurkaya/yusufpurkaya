@@ -10,4 +10,4 @@
     <li> 📝 Ask me about JAVA,SELENIUM,JDBC,HTML,SQL
     <li> 📝 SDLC,STLC,AGİLE METHODOLGY
  </ul>
-  
+  <a href="https://www.linkedin.com/in/yusuf-emre-purkaya/">LinkedIn</a>
