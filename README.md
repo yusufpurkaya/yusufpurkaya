@@ -4,7 +4,7 @@
 
 <h3 align="center"> Automation Tester</h3>
 
-<p align="justify">I'm 32 years old.I like JAVA.
+<p align="justify">I like JAVA.
   
   <ul>
     <li> 📝 Ask me about JAVA,SELENIUM,JDBC,HTML,SQL
